@@ -197,3 +197,9 @@ Specialist - Decision Sciences & Applied Generative AI
 ---
 
 *Built with ❤️ using Tabulator.js and Tailwind CSS*
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
